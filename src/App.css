@@ -1,0 +1,22 @@
+.split-common {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.gutter-horizontal {
+    background-color: aqua;
+}
+
+.gutter-vertical {
+    background-color: blueviolet;
+}
+
+.common-head {
+    height: 30px;
+    background-color: yellowgreen;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
